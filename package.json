@@ -2,9 +2,9 @@
   "name": "crud",
   "version": "1.0.0",
   "description": "REST API using Mongodb",
-  "main": "app.js",
+  "main": "server.js",
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "nodemon server.js"
   },
   "author": "Aro",
   "license": "ISC",
